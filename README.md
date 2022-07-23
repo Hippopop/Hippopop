@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hippopop
+- 👋 Hi, I’m @Mostafijul Islam
 - 👀 I’m interested in ... Learning anything.
-- 🌱 I’m currently learning ... Learning Flutter.
+- 🌱 I’m currently learning ... Flutter.
 - 💞️ I’m looking to collaborate on ... Basic CPP or Dart Flutter based applications. 
 - 📫 How to reach me ... mail me at mostafijul1000@gmail.com
 
