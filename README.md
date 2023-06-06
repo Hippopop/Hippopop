@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @Mostafijul Islam
-- 👀 I’m interested in ... Learning anything.
-- 🌱 I’m currently learning ... Flutter.
-- 💞️ I’m looking to collaborate on ... Basic CPP or Dart Flutter based applications. 
-- 📫 How to reach me ... mail me at mostafijul1000@gmail.com
+<center>
+<b>VISITOR COUNT  </b> <p>(Since 6th June 2023)</p>
+</center>
+
+<center>
+<img src="https://profile-counter.glitch.me/hippopop/count.svg" />
+</center>
+</br>
+
+- 👋 Hi, I’m @**Mostafijul Islam**
+- 👀 I’m interested in learning...🤔🤔  (Anything, I guess 😑).
+- 🌱 I’m currently learning ... **NodeJs** with **Typescript**.
+- 💞️ I’m looking to collaborate on ... **Dart** and **Flutter** based applications.
+- 📫 How to reach me ... mail me at <mostafijul1000@gmail.com>
+
+---
+<img src="commit_snake.svg">
 
 <!---
 Hippopop/Hippopop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
